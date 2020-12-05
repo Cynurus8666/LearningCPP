@@ -36,3 +36,5 @@ int main()
     }
     cout << res << endl;
 }
+
+Anh - Đỏ Thụy Điển - x - Nuôi chó Đan Mạch - x - x - Trà x - Xanh lá

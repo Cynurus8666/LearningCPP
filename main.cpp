@@ -1,3 +1,7 @@
+/*
+This is a temporary file that I use for testing some code.
+*/
+
 #include <iostream>
 using namespace std;
 class mayLaptop
