@@ -36,5 +36,5 @@ int main()
     Point x2{0, 4};
     Point x3{4, 0};
 
-    otherPointOfSquare(x1, y);
+    otherPointOfSquare(x1, x2);
 }
